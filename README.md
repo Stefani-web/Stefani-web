@@ -3,6 +3,7 @@
 ### As a result, I chose to study at Holberton School and managed to join this inspiring school.
 ### I'm currently learning the fundamentals.👋
 
+<p align='center'>
 | Most Languge |
 |--------------|
 |<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefani-web&layout=compact)</p>|
