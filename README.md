@@ -3,13 +3,14 @@
 ### As a result, I chose to study at Holberton School and managed to join this inspiring school.
 ### I'm currently learning the fundamentals.👋
 
+<div align='center'>
 <p align='center'>
 
-| Most Languge |
+| Most Language |
 |--------------|
 |<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stefani-web&layout=compact)</p>|
 
-<p align='center'>
    <a href="https://www.linkedin.com/in/stefani-web/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+   </a> </p>
+</div>
