@@ -5,11 +5,6 @@
 **<p align="center">As a result, I chose to study at Holberton School and managed to join this inspiring school. I'm currently learning *the fundamentals*👋</p>**
 # <p align="center">👩🏼‍💻</p>
 
-    
-  
-    
-
-
 <div align='center'>
 <p align='center'>
 
