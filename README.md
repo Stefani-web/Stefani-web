@@ -1,9 +1,8 @@
-|<p align="center">![createdperso](https://cdn.discordapp.com/attachments/1212359396739252225/1228409414663409705/glow.gif?ex=662bf06b&is=66197b6b&hm=f4c38ef5bcd2c99789cc7b7fe2f8dc843c68b75aaabec242551735aec7f8fef5&)
-   
-**<p align="center">I am passionate about technology, after a long career as a technical sales expert in printing solutions. I am setting myself a challenge;      </p>**
+![Image](https://media.licdn.com/dms/image/D4E16AQEj-ETgkTbHaA/profile-displaybackgroundimage-shrink_350_1400/0/1706736820643?e=1718236800&v=beta&t=AtPuZcyyORLXSUCFPfsHU1dsdUGGVZ2gFpGYmo6vWQ4)
+**<p align="center">👩🏼‍💻I am passionate about technology, after a long career as a technical sales expert in printing solutions. I am setting myself a challenge;      </p>**
 **<p align="center">To acquire a solid foundation in *web development*</p>**
-**<p align="center">As a result, I chose to study at Holberton School and managed to join this inspiring school. I'm currently learning *the fundamentals*👋</p>**
-# <p align="center">👩🏼‍💻</p>
+**<p align="center">As a result, I chose to study at Holberton School and managed to join this inspiring school. I'm currently learning the fundamentals👋</p>**
+| <p align="center"> ![createdperso](https://cdn.discordapp.com/attachments/1212359396739252225/1228409414663409705/glow.gif?ex=662bf06b&is=66197b6b&hm=f4c38ef5bcd2c99789cc7b7fe2f8dc843c68b75aaabec242551735aec7f8fef5&) 
 
 <div align='center'>
 <p align='center'>
@@ -16,4 +15,3 @@
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a> </p>
 </div>
-
