@@ -7,9 +7,15 @@
 <h3> <p align="center">Tools and language Mastered</p></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,discord&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,&theme=light)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=emacs,vim,&theme=light)](https://skillicons.dev)
+<br clear="left"/>
+[![My Skills](https://skillicons.dev/icons?i=vscode,ableton,&theme=light)](https://skillicons.dev)
+<br clear="left"/>
+[![My Skills](https://skillicons.dev/icons?i=emacs,vim,&theme=light)](https://skillicons.dev)
+<br clear="left"/>
 [![My Skills](https://skillicons.dev/icons?i=angular,nodejs,&theme=light)](https://skillicons.dev)
+<br clear="left"/>
 [![My Skills](https://skillicons.dev/icons?i=figma,bootstrap&theme=light)](https://skillicons.dev) 
+<br clear="left"/>
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,html,css,js,ts,&theme=light)](https://skillicons.dev)  </p>
 
 <br clear="left"/>
