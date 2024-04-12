@@ -2,7 +2,7 @@
 ### <p align="center">👩🏼‍💻I am passionate about technology, after a long career as a technical sales expert in printing solutions. I am setting myself a challenge;      </p>
 ### <p align="center">To acquire a solid foundation in *web development*</p>
 ### <p align="center">As a result, I chose to study at Holberton School and managed to join this inspiring school. I'm currently learning the fundamentals👋</p>
-| <p align="center"> ![createdperso](https://cdn.discordapp.com/attachments/1212359396739252225/1228409414663409705/glow.gif?ex=662bf06b&is=66197b6b&hm=f4c38ef5bcd2c99789cc7b7fe2f8dc843c68b75aaabec242551735aec7f8fef5&) 
+| <p align="center"> ![createdperso](https://cdn.discordapp.com/attachments/1212359396739252225/1228449628727279657/glow_4.gif?ex=662c15de&is=6619a0de&hm=e4b97a375697453c720eb72f6fcc3f803e16c03bd3a0f0e104d1dae8e48c8676&) 
 
 <div align='center'>
 <p align='center'>
