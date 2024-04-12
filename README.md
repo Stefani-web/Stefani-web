@@ -1,4 +1,3 @@
-
 |<p align="center">![createdperso](https://cdn.discordapp.com/attachments/1212359396739252225/1228409414663409705/glow.gif?ex=662bf06b&is=66197b6b&hm=f4c38ef5bcd2c99789cc7b7fe2f8dc843c68b75aaabec242551735aec7f8fef5&)
    
 **<p align="center">I am passionate about technology, after a long career as a technical sales expert in printing solutions. I am setting myself a challenge;      </p>**
