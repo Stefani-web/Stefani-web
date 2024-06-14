@@ -1,4 +1,4 @@
-![Image](https://media.licdn.com/dms/image/D4E16AQEj-ETgkTbHaA/profile-displaybackgroundimage-shrink_350_1400/0/1706736820643?e=1718236800&v=beta&t=AtPuZcyyORLXSUCFPfsHU1dsdUGGVZ2gFpGYmo6vWQ4)
+![Image](https://cdn.discordapp.com/attachments/1223767676241973349/1251241057111511122/1706736820643.jpg?ex=666ddc8a&is=666c8b0a&hm=59fcb27a3f43f90d7807ef4329da16ede6fe35a49ab8661efa234a5e01e23f02&)
 ### <p align="center">👩🏼‍💻I am passionate about technology, after a long career as a technical sales expert in printing solutions. I am setting myself a challenge; </p>
 ### <p align="center">To acquire a solid foundation in *web development*</p>
 ### <p align="center">As a result, I chose to study at Holberton School and managed to join this inspiring school. I'm currently learning the fundamentals👋</p>
