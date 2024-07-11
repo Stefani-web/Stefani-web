@@ -14,7 +14,7 @@
    </a> </p>
 </div>
 
-<h3> <p align="center">Tools and language Mastered</p></h3>
+<h3> <p align="center">Tools and language being learned</p></h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,discord&theme=light)](https://skillicons.dev)
 <br clear="left"/>
