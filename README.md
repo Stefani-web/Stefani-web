@@ -22,11 +22,11 @@
 <br clear="left"/>
 [![My Skills](https://skillicons.dev/icons?i=emacs,vim,&theme=light)](https://skillicons.dev)
 <br clear="left"/>
-[![My Skills](https://skillicons.dev/icons?i=angular,nodejs,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,&theme=light)](https://skillicons.dev)
 <br clear="left"/>
-[![My Skills](https://skillicons.dev/icons?i=figma,bootstrap&theme=light)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev) 
 <br clear="left"/>
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,html,css,js,ts,&theme=light)](https://skillicons.dev)  </p>
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,html,css,js,&theme=light)](https://skillicons.dev)  </p>
 
 <br clear="left"/>
 <br clear="left"/>
