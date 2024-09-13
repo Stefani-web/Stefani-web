@@ -1,6 +1,6 @@
-### <p align="center">👩🏼‍💻I am passionate about technology, after a long career as a technical sales expert in printing solutions. I am setting myself a challenge; </p>
-### <p align="center">To acquire a solid foundation in *web development*</p>
-### <p align="center">As a result, I chose to study at Holberton School and managed to join this inspiring school. I'm currently learning the fundamentals👋</p>
+### <p align="center">👋After a long career as a technical sales expert in printing solutions and very passionate about business and new technologies.</p>
+### <p align="center">I challenge myself to acquire a solid foundation in web development and become a Full-Stack web developer👩🏼‍💻</p>
+### <p align="center">I managed to join an inspiring school and as a result, I am in professional retraining at the Holberton School where I am currently learning the fundamentals</p>
 
 <div align='center'>
 <p align='center'>
