@@ -11,12 +11,14 @@ Former B2B sales engineer with 7 years of experience in printing solutions and h
             </td>
         </tr>
     </table>
-    <br />
-
-<a href="https://www.linkedin.com/in/stefani-web/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a> </p>
 </div>
+
+- 🔭 I am currently working on DevOps and DevSecOps projects
+- 🌱 I am starting a specialization in full stack development
+- 💬 I am actively looking for an apprenticeship contract in full stack development or cybersecurity
+- 📫 How to contact me: <a href="https://www.linkedin.com/in/stefani-web/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
+- 🌸 They call me Sakura
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,discord&theme=light)](https://skillicons.dev)
 <br clear="left"/>
@@ -28,7 +30,7 @@ Former B2B sales engineer with 7 years of experience in printing solutions and h
 <br clear="left"/>
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)](https://skillicons.dev) 
 <br clear="left"/>
-[![My Skills](https://skillicons.dev/icons?i=bash,powershell,html,css,js,&theme=light)](https://skillicons.dev)  </p>
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,html,css,js,&theme=light)](https://skillicons.dev)
 
 <div align="center">
     <img height="94px" width="94px" alt="Holberton School" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg" />
@@ -37,6 +39,6 @@ Former B2B sales engineer with 7 years of experience in printing solutions and h
         <a href="https://www.holbertonschool.fr/">Holberton School</a>
     </p>
     <p>
-        Skills: `BASH` `C` `C#` `PYTHON` `MYSQL` `SQL` `GIT` `SSH/SSL` `HTML5` `CSS3` `JAVASCRIPT`
+        Skills: BASH - C - C# - PYTHON - MYSQL - SQL - GIT - SSH/SSL - HTML5 - CSS3 - JAVASCRIPT
     </p>
 </div>
