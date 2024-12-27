@@ -1,3 +1,5 @@
+![Banniere Github](https://github.com/user-attachments/assets/abd48c2a-2204-4f1c-ae31-e1f6be459f69)
+
 <p align="center">
 Former B2B sales engineer with 7 years of experience in printing solutions and hardware, I am passionately reinventing myself as a full-stack web developer. After graduating from my first year at Holberton School, I designed an educational application for children in pairs by integrating technologies such as JavaScript, React.js, Node.js, Axios, Express, PostgreSQL, Sequelize, HTML5, and CSS. With this experience, I am determined to specialize in Full Stack, and/or DevOps/DevSecOps and Cloud, with the ambition of designing innovative, efficient, and secure solutions. Enthusiastic and resolutely forward-looking, I seek to collaborate on ambitious projects that combine technological innovation and positive impact.
 </p> 
