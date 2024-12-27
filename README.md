@@ -15,12 +15,12 @@
     </table>
 </div>
 
-- 🔭 I am currently working on DevOps and DevSecOps projects
-- 🌱 I am starting a specialization in full stack development
-- 💬 I am actively looking for an apprenticeship contract in full stack development or cybersecurity
-- 📫 How to contact me: <a href="https://www.linkedin.com/in/stefani-web/">
+- 🔭 ɪ ᴀᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴅᴇᴠᴏᴘꜱ ᴀɴᴅ ᴅᴇᴠꜱᴇᴄᴏᴘꜱ ᴘʀᴏᴊᴇᴄᴛꜱ
+- 🌱 ɪ ᴀᴍ ꜱᴛᴀʀᴛɪɴɢ ᴀ ꜱᴘᴇᴄɪᴀʟɪᴢᴀᴛɪᴏɴ ɪɴ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ
+- 💬 ɪ ᴀᴍ ᴀᴄᴛɪᴠᴇʟʏ ʟᴏᴏᴋɪɴɢ ꜰᴏʀ ᴀɴ ᴀᴘᴘʀᴇɴᴛɪᴄᴇꜱʜɪᴘ ᴄᴏɴᴛʀᴀᴄᴛ ɪɴ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴏʀ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ
+- 📫 ʜᴏᴡ ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ: <a href="https://www.linkedin.com/in/stefani-web/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-- 🌸 They call me Sakura
+- 🌸 ᴛʜᴇʏ ᴄᴀʟʟ ᴍᴇ ꜱᴀᴋᴜʀᴀ
 
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,discord&theme=light)](https://skillicons.dev)
 <br clear="left"/>
@@ -37,10 +37,10 @@
 <div align="center">
     <img height="94px" width="94px" alt="Holberton School" src="https://blog.holbertonschool.com/wp-content/uploads/2019/04/instagram_feed180.jpg" />
     <p>
-        <b>SOFTWARE ENGINEERING ─ FUNDAMENTALS</b><br />
-        <a href="https://www.holbertonschool.fr/">Holberton School</a>
+        <b>ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀɪɴɢ ─ ꜰᴜɴᴅᴀᴍᴇɴᴛᴀʟꜱ</b><br />
+        <a href="https://www.holbertonschool.fr/">ʜᴏʟʙᴇʀᴛᴏɴ ꜱᴄʜᴏᴏʟ</a>
     </p>
     <p>
-        Skills: BASH - C - C# - PYTHON - MYSQL - SQL - GIT - SSH/SSL - HTML5 - CSS3 - JAVASCRIPT
+        ꜱᴋɪʟʟꜱ: ʙᴀꜱʜ - ᴄ - ᴄ# - ᴘʏᴛʜᴏɴ - ᴍʏꜱQʟ - ꜱQʟ - ɢɪᴛ - ꜱꜱʜ/ꜱꜱʟ - ʜᴛᴍʟ5 - ᴄꜱꜱ3 - ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ
     </p>
 </div>
