@@ -1,7 +1,7 @@
 ![Banniere Github](https://github.com/user-attachments/assets/abd48c2a-2204-4f1c-ae31-e1f6be459f69)
 
 <p align="center">
-Former B2B sales engineer with 7 years of experience in printing solutions and hardware, I am passionately reinventing myself as a full-stack web developer. After graduating from my first year at Holberton School, I designed an educational application for children in pairs by integrating technologies such as JavaScript, React.js, Node.js, Axios, Express, PostgreSQL, Sequelize, HTML5, and CSS. With this experience, I am determined to specialize in Full Stack, and/or DevOps/DevSecOps and Cloud, with the ambition of designing innovative, efficient, and secure solutions. Enthusiastic and resolutely forward-looking, I seek to collaborate on ambitious projects that combine technological innovation and positive impact.
+ꜰᴏʀᴍᴇʀ ʙ2ʙ ꜱᴀʟᴇꜱ ᴇɴɢɪɴᴇᴇʀ ᴡɪᴛʜ 7 ʏᴇᴀʀꜱ ᴏꜰ ᴇxᴘᴇʀɪᴇɴᴄᴇ ɪɴ ᴘʀɪɴᴛɪɴɢ ꜱᴏʟᴜᴛɪᴏɴꜱ ᴀɴᴅ ʜᴀʀᴅᴡᴀʀᴇ, ɪ ᴀᴍ ᴘᴀꜱꜱɪᴏɴᴀᴛᴇʟʏ ʀᴇɪɴᴠᴇɴᴛɪɴɢ ᴍʏꜱᴇʟꜰ ᴀꜱ ᴀ ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴇʀ. ᴀꜰᴛᴇʀ ɢʀᴀᴅᴜᴀᴛɪɴɢ ꜰʀᴏᴍ ᴍʏ ꜰɪʀꜱᴛ ʏᴇᴀʀ ᴀᴛ ʜᴏʟʙᴇʀᴛᴏɴ ꜱᴄʜᴏᴏʟ, ɪ ᴅᴇꜱɪɢɴᴇᴅ ᴀɴ ᴇᴅᴜᴄᴀᴛɪᴏɴᴀʟ ᴀᴘᴘʟɪᴄᴀᴛɪᴏɴ ꜰᴏʀ ᴄʜɪʟᴅʀᴇɴ ɪɴ ᴘᴀɪʀꜱ ʙʏ ɪɴᴛᴇɢʀᴀᴛɪɴɢ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ꜱᴜᴄʜ ᴀꜱ ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ, ʀᴇᴀᴄᴛ.ᴊꜱ, ɴᴏᴅᴇ.ᴊꜱ, ᴀxɪᴏꜱ, ᴇxᴘʀᴇꜱꜱ, ᴘᴏꜱᴛɢʀᴇꜱQʟ, ꜱᴇQᴜᴇʟɪᴢᴇ, ʜᴛᴍʟ5, ᴀɴᴅ ᴄꜱꜱ. ᴡɪᴛʜ ᴛʜɪꜱ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ɪ ᴀᴍ ᴅᴇᴛᴇʀᴍɪɴᴇᴅ ᴛᴏ ꜱᴘᴇᴄɪᴀʟɪᴢᴇ ɪɴ ꜰᴜʟʟ ꜱᴛᴀᴄᴋ, ᴀɴᴅ/ᴏʀ ᴅᴇᴠᴏᴘꜱ/ᴅᴇᴠꜱᴇᴄᴏᴘꜱ ᴀɴᴅ ᴄʟᴏᴜᴅ, ᴡɪᴛʜ ᴛʜᴇ ᴀᴍʙɪᴛɪᴏɴ ᴏꜰ ᴅᴇꜱɪɢɴɪɴɢ ɪɴɴᴏᴠᴀᴛɪᴠᴇ, ᴇꜰꜰɪᴄɪᴇɴᴛ, ᴀɴᴅ ꜱᴇᴄᴜʀᴇ ꜱᴏʟᴜᴛɪᴏɴꜱ. ᴇɴᴛʜᴜꜱɪᴀꜱᴛɪᴄ ᴀɴᴅ ʀᴇꜱᴏʟᴜᴛᴇʟʏ ꜰᴏʀᴡᴀʀᴅ-ʟᴏᴏᴋɪɴɢ, ɪ ꜱᴇᴇᴋ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ᴀᴍʙɪᴛɪᴏᴜꜱ ᴘʀᴏᴊᴇᴄᴛꜱ ᴛʜᴀᴛ ᴄᴏᴍʙɪɴᴇ ᴛᴇᴄʜɴᴏʟᴏɢɪᴄᴀʟ ɪɴɴᴏᴠᴀᴛɪᴏɴ ᴀɴᴅ ᴘᴏꜱɪᴛɪᴠᴇ ɪᴍᴘᴀᴄᴛ.
 </p> 
 
 <div align="center">
